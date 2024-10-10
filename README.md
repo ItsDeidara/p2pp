@@ -1,4 +1,4 @@
-# NOTE - The original repo was deleted without warning, leaving everyone in the dust without warning. This repo is going to be as close of an exact clone as possible. If there is anything missing and you can share it, please do so. 
+# NOTE - The original repo was deleted without warning, leaving everyone in the dust. This repo is going to be as close of an exact clone as possible. If there is anything missing and you can share it, please do so. 
 
 # p2pp - **Palette2 Post Processing tool for PrusaSlicer/Slic3r PE**
 
